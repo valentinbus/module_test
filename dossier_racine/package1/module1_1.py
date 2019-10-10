@@ -1,0 +1,1 @@
+from dossier_racine.package2 import module2
